@@ -1,0 +1,286 @@
+
+Characters.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1978, 450
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: true
+  xy: 1067, 118
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: true
+  xy: 1940, 403
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 2, 2
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: false
+  xy: 1207, 247
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+Gun01
+  rotate: false
+  xy: 1848, 447
+  size: 128, 63
+  orig: 128, 63
+  offset: 0, 0
+  index: -1
+Hand_B
+  rotate: false
+  xy: 1473, 296
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Hand_BHammer
+  rotate: false
+  xy: 872, 22
+  size: 157, 73
+  orig: 157, 73
+  offset: 0, 0
+  index: -1
+Hand_F
+  rotate: false
+  xy: 1067, 65
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: true
+  xy: 1132, 206
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 1031, 37
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+Hand_WGun1
+  rotate: true
+  xy: 1067, 206
+  size: 139, 63
+  orig: 139, 63
+  offset: 0, 0
+  index: -1
+Head1
+  rotate: false
+  xy: 1711, 384
+  size: 135, 126
+  orig: 135, 126
+  offset: 0, 0
+  index: -1
+Head2
+  rotate: false
+  xy: 1550, 386
+  size: 159, 124
+  orig: 159, 124
+  offset: 0, 0
+  index: -1
+Jetpack
+  rotate: false
+  xy: 1132, 242
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: true
+  xy: 1391, 267
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Leg_F1
+  rotate: false
+  xy: 1132, 330
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 1139, 176
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 1098, 88
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 45, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 1067, 44
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Parachute_B
+  rotate: true
+  xy: 1162, 320
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: -1
+Parachute_F
+  rotate: false
+  xy: 872, 97
+  size: 193, 248
+  orig: 193, 248
+  offset: 0, 0
+  index: -1
+Parachutetail_F
+  rotate: true
+  xy: 1391, 285
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+RollFx
+  rotate: false
+  xy: 1367, 329
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+Smoke01
+  rotate: false
+  xy: 1550, 329
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+Smoke02
+  rotate: false
+  xy: 1848, 390
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+Smoke03
+  rotate: false
+  xy: 1207, 263
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+Smoke04
+  rotate: false
+  xy: 1299, 263
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+Tails
+  rotate: false
+  xy: 1642, 363
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+TurbineFx_00
+  rotate: false
+  xy: 2, 347
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_01
+  rotate: false
+  xy: 2, 182
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_02
+  rotate: false
+  xy: 292, 347
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_03
+  rotate: false
+  xy: 2, 17
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_04
+  rotate: false
+  xy: 292, 182
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_05
+  rotate: false
+  xy: 582, 347
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_06
+  rotate: false
+  xy: 292, 17
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_07
+  rotate: false
+  xy: 582, 182
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_08
+  rotate: false
+  xy: 872, 347
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
+TurbineFx_09
+  rotate: false
+  xy: 582, 17
+  size: 288, 163
+  orig: 288, 163
+  offset: 0, 0
+  index: -1
