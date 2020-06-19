@@ -5,6 +5,12 @@ TextureImporter:
   - first:
       213: -5398378805512478983
     second: tile_jungle_treelimb_0
+  - first:
+      213: -229242183090407185
+    second: tile_jungle_treelimb_1
+  - first:
+      213: 2547653715921429969
+    second: tile_jungle_treelimb_2
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -105,6 +111,48 @@ TextureImporter:
       bones: []
       spriteID: e720735ab9738e142b818a3742b1ffd0
       internalID: -5398378805512478983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_treelimb_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 160
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cb1c6b5e70e4e488227bad49aea62f
+      internalID: -229242183090407185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_treelimb_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 448
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157fa6c0c9c4a748ab9690783c2f53b
+      internalID: 2547653715921429969
       vertices: []
       indices: 
       edges: []
