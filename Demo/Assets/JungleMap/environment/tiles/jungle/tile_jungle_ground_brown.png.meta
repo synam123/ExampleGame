@@ -29,8 +29,11 @@ TextureImporter:
   - first:
       213: 5426897207778364502
     second: tile_jungle_ground_brown_8
+  - first:
+      213: 5262098393570241595
+    second: tile_jungle_ground_brown_9
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +87,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -297,6 +301,27 @@ TextureImporter:
       bones: []
       spriteID: be14a55b96437ed49a09af43b721834e
       internalID: 5426897207778364502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_jungle_ground_brown_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 95
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c68e1fb9ab60940800000000000000
+      internalID: 5262098393570241595
       vertices: []
       indices: 
       edges: []

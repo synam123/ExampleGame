@@ -302,8 +302,20 @@ TextureImporter:
   - first:
       213: 1229276847338015286
     second: guide_jungle_99
+  - first:
+      213: 4598855413906407563
+    second: guide_jungle_100
+  - first:
+      213: 8041591173719338935
+    second: guide_jungle_101
+  - first:
+      213: 5198991413739452192
+    second: guide_jungle_102
+  - first:
+      213: 528351741325338708
+    second: guide_jungle_103
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -357,6 +369,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -2481,6 +2494,90 @@ TextureImporter:
       bones: []
       spriteID: 5983bb0eb7068384585a00a80ad20b4e
       internalID: 1229276847338015286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guide_jungle_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 31
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80064712aa62df30800000000000000
+      internalID: 4598855413906407563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guide_jungle_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 894
+        width: 183
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf257af098799f60800000000000000
+      internalID: 8041591173719338935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guide_jungle_102
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 790
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027fe363527862840800000000000000
+      internalID: 5198991413739452192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guide_jungle_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e7220c15155700800000000000000
+      internalID: 528351741325338708
       vertices: []
       indices: 
       edges: []
