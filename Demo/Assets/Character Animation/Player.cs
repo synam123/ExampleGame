@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
 
     private Rigidbody2D rb ;
     private Animator anim;
-    private enum State { idle , running , jumping,falling}
+    private enum State { idle , running , jumping,falling};
     private State state = State.idle;
     private Collider2D coll;
    [SerializeField] private LayerMask ground;
